@@ -1,0 +1,59 @@
+    body {
+        background-color: #000;
+    }
+
+    #container {
+        margin: auto;
+        background-color: #fff;
+        text-align: center;
+        width: 35%;
+        border-width: 10px;
+        border-style: solid;
+        border-color: #7a297a;
+        padding-top: 15px;
+    }
+
+    #show {
+        margin: auto;
+        width: 65%;
+        padding: 30px;
+        background-color: #7a297a;
+        margin-bottom: 15px;
+        box-shadow: 2px 2px 2px #000;
+    }
+
+    button {
+        display: inline-block;
+        margin-bottom: 5px;
+        margin-left: 15px;
+        width: 50px;
+        padding: 10px;
+        background-color: #cacaca;
+        color: #000;
+        border: none;
+        font-family: Verdana;
+        font-size: 15pt;
+        box-shadow: 1px 1px 1px 1px #000;
+    }
+
+    #result {
+        background-color: #09acac;
+        color: #fff;
+    }
+
+    #limpar,
+    #dividir,
+    #mult,
+    #mais,
+    #elevar,
+    #raiz,
+    #arredon,
+    #menos {
+        background-color: #cacaca;
+        color: #000;
+    }
+
+    #show {
+        color: #fff;
+        font-size: 20pt;
+    }
