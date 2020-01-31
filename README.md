@@ -1,6 +1,6 @@
 # CalculatorJS
 Project created in university class.It's does calculations of sum, subtraction, multiplication, division, potentiation,
-square root
+square root, etc.
 
 # Techs
 JQuery<br/>
